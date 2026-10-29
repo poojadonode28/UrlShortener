@@ -330,6 +330,9 @@ If `InMemoryUserRepository` updates an ID map and an email map separately, those
 
 ## 9. Video: code-generation evolution
 
+
+<img width="2953" height="4169" alt="image" src="https://github.com/user-attachments/assets/78c51e12-f87f-4d3a-9f85-d63289c3f687" />
+
 ### Hash and truncate
 
 The video first explores hashing the URL with MD5/SHA-1 and taking 6–7 characters. MD5 commonly appears as 32 hexadecimal characters; SHA-1 as 40. On collision, add a salt or try another digest segment and retry.
